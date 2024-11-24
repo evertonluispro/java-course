@@ -24,6 +24,8 @@ public class aula30Exercicio4 {
 		
 		System.out.println("NUMBER = " + func);
 		System.out.printf("SALARY = U$ %.2f%n", salario );
+
+		sc.close();
 		
 
 	}
