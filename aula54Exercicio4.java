@@ -27,6 +27,7 @@ public class aula54Exercicio4 {
 			}
 		}
 
+		sc.close();
 	}
 
 }
